@@ -1,7 +1,7 @@
-### Hi! 👋🏻
+## Hi all! 👋🏻
 
 
-My name is Hareer and I am a super Harry Potter fan ⚡, hopeful developer 👩🏻‍💻, science lover 🔬 and outdoors person 🍂 ! 😏
+My name is Hareer and I am a ***HUGE***  Harry Potter fan ⚡, hopeful web and app developer 👩🏻‍💻, science lover 🔬 and outdoors person 🍂 ! 😏
 
 
 
