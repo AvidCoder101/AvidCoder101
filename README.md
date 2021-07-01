@@ -12,7 +12,7 @@
 ### Some of my public repositories (not forks):
 
 - **[My Profile Repo - HareerSakhi/HareerSakhi](https://github.com/HareerSakhi/HareerSakhi)**
-- **[My BMI Calculator Repe - HareerSakhi/BMICalculator](https://github.com/HareerSakhi/BMICalculator)**
+- **[My BMI Calculator Repo - HareerSakhi/BMICalculator](https://github.com/HareerSakhi/BMICalculator)**
 
 ### Organizations that I am part of:
 
