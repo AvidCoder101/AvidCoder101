@@ -33,7 +33,7 @@
 
 ### Here's my Codewars stats:
 
-![image of Codewars stats](https://user-images.githubusercontent.com/70807684/124387945-57433100-dcd8-11eb-9a60-5e911a56cabf.png)
+<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
 
 
 
