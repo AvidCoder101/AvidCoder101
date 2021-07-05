@@ -35,6 +35,11 @@
 
 <img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
 
+### Here's My GitHub Stats:
+
+![image of stats](https://user-images.githubusercontent.com/70807684/124421253-f4de4500-dd58-11eb-9044-0b1a458a963e.png)
+
+
 
 ### Thank you for visiting my profile 🤓
 
