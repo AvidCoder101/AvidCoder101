@@ -37,7 +37,8 @@
 
 ### Here's My GitHub Stats:
 
-![image of stats](https://user-images.githubusercontent.com/70807684/124421253-f4de4500-dd58-11eb-9044-0b1a458a963e.png)
+![image of stats](https://user-images.githubusercontent.com/70807684/124425151-10008300-dd60-11eb-9869-7098d8391109.png)
+
 
 
 
