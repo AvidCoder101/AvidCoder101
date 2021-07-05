@@ -35,39 +35,6 @@
 
 <img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
 
-### My GitHub Stats :
-<html>
-
- <div class="div" style= " border-radius: 20px;
-    border-color: #b30059;
-    border-width: 3cm;
-    width: 340px;
-    height: 210px;
-    padding: 10px;
-    margin: 18;
-    font-family: "Alata";
-    font-size: 22px;
-    background-color:#000033;
-    color: white;">
-   
-   
-            Hareer Sakhi's GitHub Stats 📈:
-            <br>
-            <img src="https://image.flaticon.com/icons/png/128/616/616489.png" width= "20px"> Stars: 12
-            <br>
-            <img src="https://image.flaticon.com/icons/png/128/1057/1057061.png" width="20px"> Commits (2021) : 240
-            <br>
-            <img src= "https://image.flaticon.com/icons/png/128/308/308734.png" width= "20px"> PR's (2021) : 21
-            <br>
-            <img src= "https://image.flaticon.com/icons/png/128/1500/1500374.png" width="20px"> Issues (2021) : 4
-            <br>
-            <img src= "https://image.flaticon.com/icons/png/128/1728/1728495.png" width= "20px"> Organizations : 4
-            <br>
-            <img src= "https://image.flaticon.com/icons/png/128/4015/4015617.png" width= "20px"> Orgs Contributed To : 7
-        </div>
-  </html>
-
-
 
 ### Thank you for visiting my profile 🤓
 
