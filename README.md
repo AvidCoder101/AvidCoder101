@@ -1,21 +1,6 @@
 #  Hi all! 👋🏻
 
-<html>
-<head>
-<link href= "https://fonts.googleapis.com/css?family=Akaya Kanadaka" rel="stylesheet">
-<link rel= "stylesheet" href= "./index.css">
 
-<body>
-<div class="typing"><u>My name is <span>Hareer Sakhi</span>, and I am a <span>Learning Developer</span></u></div><div class="crow">|</div>
-<img align= "right" src= "https://user-images.githubusercontent.com/70807684/120706497-15448680-c4b1-11eb-9427-2ba21a41d452.png" alt= "developer" width= "200"/>
-</body>
-</html>
-<br>
-
-<br>
-
-
-<br>
 <h3> Here's some fun facts about me: </h3>
 
 - **I am a ***HUGE Harry Potter fan***⚡**🧙🏻‍♂️
