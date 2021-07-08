@@ -1,8 +1,88 @@
-# <ins> Hi all! 👋🏻 </ins>
+#  Hi all! 👋🏻
 
-<img align= "right" src= "https://user-images.githubusercontent.com/70807684/120706497-15448680-c4b1-11eb-9427-2ba21a41d452.png" alt= "developer" width= "300"/>
+<html>
+<head>
+<link href= "https://fonts.googleapis.com/css?family=Akaya Kanadaka" rel="stylesheet">
 
-### Here's some fun facts about me:
+<style>
+    body {
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+
+.header{
+    padding: 50px;
+    text-align: center;
+    background: whitesmoke;
+    color: black;
+    opacity: 0.8;
+    size: 50cm;
+    text-align: center;
+}
+
+.typing{
+    width: 0ch;
+    color:white;
+    float: left;
+    font-family: 'Akaya Kanadaka';
+    font-weight: bold;
+    font-size: 25px;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 5s steps(20) 1s infinite alternate;
+    text-align: center;
+    margin-left: 300px;
+}
+
+.typing span{
+    color: red;
+}
+
+.crow{
+    float: left;
+    color: red;
+    font-family: 'Akaya Kanadaka';
+    font-weight: bold;
+    font-size:30px;
+    animation: crow 0.5s linear 0s infinite;
+}
+
+@keyframes typing {
+    from {
+        width: 0ch;
+    }
+    to {
+        width: 52ch;
+    }
+}
+
+@keyframes crow {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+</style>
+</head>
+
+<body>
+<div class="typing"><u>My name is <span>Hareer Sakhi</span>, and I am a <span>Learning Developer</span></u></div><div class="crow">|</div>
+<img align= "right" src= "https://user-images.githubusercontent.com/70807684/120706497-15448680-c4b1-11eb-9427-2ba21a41d452.png" alt= "developer" width= "200"/>
+</body>
+</html>
+<br>
+
+<br>
+
+
+<br>
+<h3> Here's some fun facts about me: </h3>
 
 - **I am a ***HUGE Harry Potter fan***⚡**🧙🏻‍♂️
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
