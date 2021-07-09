@@ -1,5 +1,4 @@
-#  Hi all! 👋🏻
-
+#  Hi all! 👋🏻 <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
 <h3> Here's some fun facts about me: </h3>
 
