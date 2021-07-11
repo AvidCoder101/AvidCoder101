@@ -35,7 +35,7 @@
 [<img src= "https://image.flaticon.com/icons/png/512/541/541509.png" height= "50" width= "50">](https://www.javascript.com/)
 [<img src= "https://image.flaticon.com/icons/png/512/919/919826.png" height= "50" width= "50">](https://www.w3schools.com/css/)
 [<img src= "https://image.flaticon.com/icons/png/512/1051/1051277.png" height= "50" width= "50">](https://www.w3schools.com/html/)
-[<img src= "https://image.flaticon.com/icons/png/512/3334/3334886.png" height= "50" width= "50">](https://reactjs.org/)
+[<img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height= "50" width= "50">](https://reactjs.org/)
 
 
 ### Here's my Codewars stats:
