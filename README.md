@@ -13,10 +13,7 @@
 
 ### Here's my github README stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HareerSakhi&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HareerSakhi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HareerSakhi&theme=radical)](https://git.io/streak-stats)
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HareerSakhi&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HareerSakhi&theme=radical)](https://git.io/streak-stats)
 
 ### Some of my public repositories (not forks):
 
@@ -28,13 +25,6 @@
 - **[Markdown-dungeon - MakeContributions](https://github.com/MakeContributions/markdown-dungeon)**
 - **[Resources - zero-to-mastery](https://github.com/zero-to-mastery/resources)**
 - **[Github stats - anuraghazra](https://github.com/anuraghazra/github-readme-stats)**
-
-### Organizations that I am part of:
-
-[<img src= "https://avatars.githubusercontent.com/u/35373879?s=60&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
-[<img src= "https://avatars.githubusercontent.com/u/66388388?s=88&v=4" height= "50" width= "50">](https://github.com/EddieHubCommunity)
-[<img src= "https://avatars.githubusercontent.com/u/67384272?s=88&v=4" height= "50" width= "50">](https://github.com/MakeContributions)
-[<img src= "https://avatars.githubusercontent.com/u/85806982?s=88&v=4" height= "50" width= "50">](https://github.com/Apps-and-Tutorials)
 
 ### Organizations that I have contributed to:
 
