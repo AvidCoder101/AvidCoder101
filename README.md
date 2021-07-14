@@ -16,6 +16,12 @@
 - **[My Profile Repo - HareerSakhi/HareerSakhi](https://github.com/HareerSakhi/HareerSakhi)**
 - **[My BMI Calculator Repo - HareerSakhi/BMICalculator](https://github.com/HareerSakhi/BMICalculator)**
 
+### Some awesome repos that people and organizations have made:
+
+- **[Markdown-dungeon - MakeContributions](https://github.com/MakeContributions/markdown-dungeon)**
+- **[Resources - zero-to-mastery](https://github.com/zero-to-mastery/resources)**
+- **[Github stats - anuraghazra](https://github.com/anuraghazra/github-readme-stats)**
+
 ### Organizations that I am part of:
 
 [<img src= "https://avatars.githubusercontent.com/u/35373879?s=60&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
