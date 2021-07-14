@@ -11,6 +11,11 @@
 -  **I am a true science lover 🔬**
 -  **Finally, I'm a football-watching frenzy ⚽!**
 
+### Here's my github README stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HareerSakhi&show_icons=true&theme=radical)
+
+
 ### Some of my public repositories (not forks):
 
 - **[My Profile Repo - HareerSakhi/HareerSakhi](https://github.com/HareerSakhi/HareerSakhi)**
