@@ -14,7 +14,8 @@
 
 ### Here's my github README stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HareerSakhi&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HareerSakhi&theme=radical)](https://git.io/streak-stats)
+![HareerSakhi GitHub stats](https://github-readme-stats.vercel.app/api?username=hareersakhi&show_icons=true&theme=radical)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HareerSakhi&theme=radical)](https://git.io/streak-stats)
 
 ### Some of my public repositories (not forks):
 
