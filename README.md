@@ -42,11 +42,11 @@
 
 ### Here's the languages that I am currently working on:
 
-[<img src= "https://image.flaticon.com/icons/png/512/541/541509.png" height= "50" width= "50">](https://www.javascript.com/)
-[<img src= "https://image.flaticon.com/icons/png/512/919/919826.png" height= "50" width= "50">](https://www.w3schools.com/css/)
-[<img src= "https://image.flaticon.com/icons/png/512/1051/1051277.png" height= "50" width= "50">](https://www.w3schools.com/html/)
-[<img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height= "50" width= "50">](https://reactjs.org/)
-[<img src= "https://static-00.iconduck.com/assets.00/logo-markdown-icon-512x385-k241bxv5.png" height= "50" width= "50">](https://www.markdownguide.org/)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ### Here's my Codewars stats:
