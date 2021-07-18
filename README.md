@@ -16,6 +16,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HareerSakhi&theme=radical)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HareerSakhi)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HareerSakhi)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 
