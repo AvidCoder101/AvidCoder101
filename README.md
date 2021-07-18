@@ -3,6 +3,8 @@
 ![image](https://user-images.githubusercontent.com/70807684/125312312-11b3e300-e32c-11eb-908e-ff9d630d3d01.png)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=76F7B5&size=30&center=true&vCenter=true&lines=I'm+a+learning+developer;I'm+a+CRAZY+football+fan;I'm+a+proud+GitHub+User)](https://git.io/typing-svg)
+
 <h3> Here's some fun facts about me: </h3>
 
 - **I am a ***HUGE Harry Potter fan***⚡**🧙🏻‍♂️
