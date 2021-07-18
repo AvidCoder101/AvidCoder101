@@ -56,7 +56,7 @@
 
 <img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
 
-### Thank you for visiting my profile 🤓
+### Thank you for visiting my profile 🤓 If you want, give this repo a 🌟
 
 
 
