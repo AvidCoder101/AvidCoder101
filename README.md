@@ -1,6 +1,7 @@
 # Hi all! <img src= "https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
-![image](https://user-images.githubusercontent.com/70807684/125312312-11b3e300-e32c-11eb-908e-ff9d630d3d01.png)
+![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=61F7AA&size=30&lines=Hey!+My+name's+Hareer+;I'm+a+Learning+Developer...;I'm+a+CRAZY+football+fan...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
@@ -13,11 +14,11 @@
 
 ### Here's my github README stats:
 
-![HareerSakhi GitHub stats](https://github-readme-stats.vercel.app/api?username=HareerSakhi&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HareerSakhi&theme=radical)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HareerSakhi)](https://github.com/anuraghazra/github-readme-stats)
+![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvidCoder101)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HareerSakhi)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -25,8 +26,8 @@
 
 ### Some of my public repositories (not forks):
 
-- **[My Profile Repo - HareerSakhi/HareerSakhi](https://github.com/HareerSakhi/HareerSakhi)**
-- **[My BMI Calculator Repo - HareerSakhi/BMICalculator](https://github.com/HareerSakhi/BMICalculator)**
+- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
+- **[My BMI Calculator Repo - AvidCoder101/BMICalculator](https://github.com/AvidCoder101/BMICalculator)**
 
 ### Some awesome repos that people and organizations have made:
 
