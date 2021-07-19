@@ -39,7 +39,7 @@
 
 [<img src= "https://avatars.githubusercontent.com/u/66388388?s=88&v=4" height= "50" width= "50">](https://github.com/EddieHubCommunity)
 [<img src= "https://avatars.githubusercontent.com/u/35373879?s=60&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
-[<img src= "https://avatars.githubusercontent.com/u/85806982?s=88&v=4" height= "50" width= "50">](https://github.com/Apps-and-Tutorials)
+[<img src= "https://avatars.githubusercontent.com/u/87652881?s=200&v=4" height= "50" width= "50">](https://github.com/CodingContributorsLair)
 [<img src= "https://avatars.githubusercontent.com/u/67384272?s=88&v=4" height= "50" width= "50">](https://github.com/MakeContributions)
 [<img src= "https://avatars.githubusercontent.com/u/37713493?s=88&v=4" height= "50" width= "50">](https://github.com/firstcontributions)
 [<img src= "https://avatars.githubusercontent.com/u/24355438?s=88&v=4" height= "50" width= "50">](https://github.com/fnplus)
