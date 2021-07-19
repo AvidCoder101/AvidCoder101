@@ -4,7 +4,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
-
 <h3> Here's some fun facts about me: </h3>
 
 - **I am a ***HUGE Harry Potter fan***⚡**🧙🏻‍♂️
@@ -17,11 +16,7 @@
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvidCoder101)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 
 
 ### Some of my public repositories (not forks):
@@ -58,7 +53,9 @@
 
 <img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
 
-### Thank you for visiting my profile 🤓 If you want, give this repo a 🌟
+### Thank you for visiting my profile 🤓 
+
+### Feel free to fork and 🌟 this repo!!
 
 
 
