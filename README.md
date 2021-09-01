@@ -45,7 +45,7 @@
 - **[Jobream - List-of-Learning-Resources](https://github.com/Jobream/List-of-Learning-Resources)**
 - **[EddieHubCommunity - awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)**
 
-### Organizations that I have contributed to:
+### Organizations that I have contributed to :
 
 [<img src= "https://avatars.githubusercontent.com/u/66388388?s=88&v=4" height= "50" width= "50">](https://github.com/EddieHubCommunity)
 [<img src= "https://avatars.githubusercontent.com/u/35373879?s=60&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
