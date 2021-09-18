@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
-- **I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
+- **I'm ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
 -  **I am a true science lover 🔬**
 -  **Finally, I'm a football-watching frenzy ⚽!**
