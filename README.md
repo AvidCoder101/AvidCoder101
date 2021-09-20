@@ -59,7 +59,7 @@
 [<img src= "https://avatars.githubusercontent.com/u/55499010?s=60&v=4" height= "50" width= "50">](https://github.com/devcreatives)
 [<img src= "https://avatars.githubusercontent.com/u/69833530?s=60&v=4" height= "50" width= "50">](https://github.com/uncodedtech)
 
-### Here's the languages that I am currently working on:
+### Here is the languages that I am currently working on:
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
