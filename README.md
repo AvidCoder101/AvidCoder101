@@ -68,7 +68,7 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### Here's my Codewars stats:
+### Here are my Codewars stats:
 
 <img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
 
