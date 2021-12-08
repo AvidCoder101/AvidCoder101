@@ -12,7 +12,7 @@
 - **I'm ***HUGE Harry Potter fan*** ⚡🧙🏻‍♂️**
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
 -  **I am a true science lover 🔬**
--  **Finally, I ***LOVE*** playing football ⚽!**
+-  **Finally, I ***LOVE*** playing soccer/football ⚽!**
 -  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) 🙂**
 
 ### Here's my github README stats:
