@@ -83,7 +83,6 @@
 
 ### Feel free to fork and 🌟 this repo!!
 
-<img src= "https://i.pinimg.com/originals/b9/b7/e2/b9b7e29a046d5e326873c509091fcd8f.gif" width= "100" height= "100">
 
 
 
