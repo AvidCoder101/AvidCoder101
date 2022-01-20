@@ -11,7 +11,7 @@
 
 - **I'm a ***HUGE Harry Potter fan*** ⚡🧙🏻‍♂️**
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
--  **I am a true science lover 🔬**
+-  **I'd love to pursue a career in science in the future alongside programming 👩🏻‍⚕️**
 -  **Finally, I ***LOVE*** playing soccer/football ⚽!**
 -  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) 🙂**
 
