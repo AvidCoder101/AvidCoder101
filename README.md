@@ -65,7 +65,7 @@
 [<img src= "https://avatars.githubusercontent.com/u/79212466?s=64&v=4" height= "50" width= "50">](https://github.com/PUGroups)
 [<img src= "https://avatars.githubusercontent.com/u/81645243?s=64&v=4" height= "50" width= "50">](https://github.com/nhcommunity)
 
-### Here is the languages that I am currently working on:
+### Here are the languages that I am currently working on:
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
