@@ -67,6 +67,17 @@
 [<img src= "https://avatars.githubusercontent.com/u/75231084?s=88&v=4" height= "50" width= "50">](https://github.com/RoquesBeach)
 [<img src= "https://avatars.githubusercontent.com/u/79212466?s=64&v=4" height= "50" width= "50">](https://github.com/PUGroups)
 [<img src= "https://avatars.githubusercontent.com/u/81645243?s=64&v=4" height= "50" width= "50">](https://github.com/nhcommunity)
+[<img src= "https://avatars.githubusercontent.com/u/97304647?s=64&v=4" height= "50" width= "50">](https://github.com/Intel-Student-Ambassadors)
+[<img src= "https://avatars.githubusercontent.com/u/95956083?s=64&v=4" height= "50" width= "50">](https://github.com/InnateComm)
+[<img src= "https://avatars.githubusercontent.com/u/95483713?s=64&v=4" height= "50" width= "50">](https://github.com/CommunityPro)
+[<img src= "https://avatars.githubusercontent.com/u/90423790?s=64&v=4" height= "50" width= "50">](https://github.com/Robotics-Club-BMU)
+[<img src= "https://avatars.githubusercontent.com/u/90378850?s=64&v=4" height= "50" width= "50">](https://github.com/cac-nijt)
+[<img src= "https://avatars.githubusercontent.com/u/90124840?s=64&v=4" height= "50" width= "50">](https://github.com/Bauddhik-Geeks)
+[<img src= "https://avatars.githubusercontent.com/u/88617467?s=64&v=4" height= "50" width= "50">](https://github.com/OpInCo-Community)
+[<img src= "https://avatars.githubusercontent.com/u/86716722?s=64&v=4" height= "50" width= "50">](https://github.com/CURAJ-Open-Source-Community)
+[<img src= "https://avatars.githubusercontent.com/u/83757303?s=64&v=4" height= "50" width= "50">](https://github.com/CuriousGrids)
+[<img src= "https://avatars.githubusercontent.com/u/37249458?s=64&v=4" height= "50" width= "50">](https://github.com/risk-first)
+
 
 ### Here are the languages that I am currently working on:
 
