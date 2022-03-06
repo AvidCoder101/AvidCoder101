@@ -12,7 +12,7 @@
 <h3> Here's some fun facts about me: </h3>
 
 ## • **I was one of the 50,000 GitHub users around the world to complete Hacktoberfest 2021, order my merch and receive the stickers and T-shirt 😎**
-- **I'm a ***HUGE Harry Potter fan*** ⚡🧙🏻‍♂️**
+- **I'm a Harry Potter fan*** ⚡🧙🏻‍♂️**
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
 -  **I'd love to get into a career in science in the future alongside programming 👩🏻‍⚕️**
 -  **Finally, I ***LOVE*** playing soccer/football ⚽!**
