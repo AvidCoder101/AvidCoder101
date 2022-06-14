@@ -11,8 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
-## • ** One of the 50,000 GitHub users around the world to complete Hacktoberfest 2021, get my merch and receive the stickers and T-shirt 😎**
-- **I'm a Harry Potter fan*** ⚡🧙🏻‍♂️**
+## • One of the 50,000 GitHub users around the world to complete Hacktoberfest 2021, get my merch and receive the stickers and T-shirt 😎**
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
 -  **I'd love to get into a career in science in the future alongside programming 👩🏻‍⚕️**
 -  **Finally, I ***LOVE*** playing soccer/football ⚽!**
