@@ -11,10 +11,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
-## • One of the 50,000 GitHub users around the world to complete Hacktoberfest 2021, get my merch and receive the stickers and T-shirt 😎**
+## • One of the 50,000 GitHub users around the world to complete Hacktoberfest 2021, get my merch and receive the stickers and T-shirt 😎
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
 -  **I'd love to get into a career in science in the future alongside programming 👩🏻‍⚕️**
--  **Finally, I ***LOVE*** playing soccer/football ⚽!**
+-  ***LOVE*** playing soccer/football ⚽!**
 -  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) 🙂**
 
 ### Here's my github README stats:
@@ -24,7 +24,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### Bro! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+### Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
 
