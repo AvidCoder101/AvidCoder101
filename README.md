@@ -94,6 +94,8 @@
 ### Thank you for visiting my profile 🤓 
 
 ### Feel free to fork and 🌟 this repo!! (make sure if you are using some of these items, personalise them designed to your profile 🙂)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
  
 
 
