@@ -3,7 +3,7 @@
 <!-- ![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png) -->
 ![banner](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif)
 
-### Looking for an organisation to contribute to and join? Check out [CodingContributorsLair](https://github.com/CodingContributorsLair/). Contributing to any of the repos = an invite! For a specific repository to contribute to, go to [Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&pause=1000&color=F71212&width=435&lines=AvidCoder;Aspiring+Developer;Keen+Contributor;Open-source+enthusiast)](https://git.io/typing-svg)
 
 <img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">   
 
@@ -94,7 +94,7 @@
 ### Thank you for visiting my profile 🤓 
 
 ### Feel free to fork and 🌟 this repo!! (make sure if you are using some of these items, personalise them designed to your profile 🙂)
-![gitartwork](gitartwork.svg)
+
 
 
 
