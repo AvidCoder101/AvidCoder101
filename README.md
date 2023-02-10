@@ -93,7 +93,7 @@
 
 ### Thank you for visiting my profile 🤓 
 
-### Feel free to fork and 🌟 this repo!! (make sure if you are using some of these items, personalise them designed to your profile 🙂)
+### Feel free to fork and 🌟 this repo!!
 
 
 
