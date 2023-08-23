@@ -23,11 +23,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-### Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
-
 ### Some of my public repositories (not forks):
 
 - **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
