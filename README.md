@@ -1,5 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif)
- 
+
   <h3 align= "center"> Hello World 👋🏼 It's Avid Coder </h3>
 
 ----
@@ -7,9 +7,9 @@
  Here's some fun facts about me:
 
 - I hope to pursue a career in web development one day (but for now, I stick to open-source contributions 😀)
--  Although I code, my main career focus is to work in medical science 🧪🔬
--  I absolutely love football (soccer) ⚽
-- I also made the [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) and am part of so many more organisations! 
+- Although I code, my main career focus is to work in medical science 🧪🔬
+- I absolutely love football (soccer) ⚽
+- I also made the [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) and am part of so many more organisations!
 
 -----
 
@@ -22,7 +22,7 @@ My Github stats:
         </td>
         <td>
             <img src="https://github-profile-trophy.vercel.app/?username=AvidCoder101"/>
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
@@ -70,11 +70,10 @@ Organisations I am part of:
 [<img src= "https://avatars.githubusercontent.com/u/95528872?s=200&v=4" height= "50" width= "50">](https://github.com/Magic-Academy)
 [<img src= "https://avatars.githubusercontent.com/u/83478816?s=200&v=4" height= "50" width= "50">](https://github.com/Design-and-Code)
 [<img src= "https://avatars.githubusercontent.com/u/107547777?s=200&v=4" height= "50" width= "50">](https://github.com/AccessibleForAll)
-[<img src= "https://avatars.githubusercontent.com/u/105087028?s=200&v=4" height= "50" width= "50">](https://github.com/infraform) 
+[<img src= "https://avatars.githubusercontent.com/u/105087028?s=200&v=4" height= "50" width= "50">](https://github.com/infraform)
 [<img src= "https://avatars.githubusercontent.com/u/99540144?s=200&v=4" height= "50" width= "50">](https://github.com/devs-in-tech)
 [<img src= "https://avatars.githubusercontent.com/u/88209946?s=200&v=4" height= "50" width= "50">](https://github.com/The-CODE-Plus-Plus-Community)
 [<img src= "https://avatars.githubusercontent.com/u/99627011?s=200&v=4" height= "50" width= "50">](https://github.com/Huniko-Team)
-
 
 ---
 
@@ -92,34 +91,18 @@ Languages I know:
 
 Some of my repositories:
 
--  **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
--  **[My BMI Calculator Repo - AvidCoder101/BMICalculator ](https://github.com/AvidCoder101/BMICalculator)**
--  **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/AvidCoder101/To-do-list)**
--  **[My Harry Potter Quiz Repo - AvidCoder101/Harry-Potter-Quiz](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
--  **[My Drawing Repo - AvidCoder101/Drawing-App](https://github.com/AvidCoder101/Drawing-App)**
--  **[My Clock Repo - AvidCoder101/Clock-App](https://github.com/AvidCoder101/Clock-App)**
+- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
+- **[My BMI Calculator Repo - AvidCoder101/BMICalculator](https://github.com/AvidCoder101/BMICalculator)**
+- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/AvidCoder101/To-do-list)**
+- **[My Harry Potter Quiz Repo - AvidCoder101/Harry-Potter-Quiz](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
+- **[My Drawing Repo - AvidCoder101/Drawing-App](https://github.com/AvidCoder101/Drawing-App)**
+- **[My Clock Repo - AvidCoder101/Clock-App](https://github.com/AvidCoder101/Clock-App)**
 
---- 
+---
 
  My Codewars Stats:
 
 <img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
 
---- 
+---
 <h3 style= "text-align: center;"> Thanks for visiting! Feel free to fork and ⭐ this repo </h3>
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
- 
