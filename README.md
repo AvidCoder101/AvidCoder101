@@ -9,7 +9,7 @@
 - I hope to pursue a career in web development one day (but for now, I stick to open-source contributions 😀)
 - Although I code, my main career focus is to work in medical science 🧪🔬
 - I absolutely love football (soccer) ⚽
-- I also made the [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) and am part of so many more organisations!
+- I created [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) and am part of so many more organisations!
 
 -----
 
