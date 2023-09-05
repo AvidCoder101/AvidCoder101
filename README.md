@@ -105,4 +105,12 @@ Some of my repositories:
 <img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
 
 ---
-<h3 style= "text-align: center;"> Thanks for visiting! Feel free to fork and ⭐ this repo </h3>
+
+Quote of the Day:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+<h3 style= "text-align: center;"> 
+
+---
+
+Thanks for visiting! Feel free to fork and ⭐ this repo </h3>
