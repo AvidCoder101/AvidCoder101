@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif)
 
-  <h3 align= "center"> Hello World 👋🏼 It's Avid Coder </h3>
+  <h3 align= "center"> Hello World 👋🏼 It's Avid Coder 💓 </h3>
 
 ----
 
